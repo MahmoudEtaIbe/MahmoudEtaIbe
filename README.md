@@ -14,13 +14,13 @@ I'm Mahmoud Etalbe, a cybersecurity student with a passion for ethical hacking a
 </div>
 <div >
   <ul>
-    <li>Burp Suite</li>
-    <li>Metasploit</li>
-    <li>Wireshark</li>
-    <li>Nmap</li>
-    <li>OSINT Frameworks</li>
-    <li>Nessus</li>
-    <li>wapiti</li>
+    <li>Burp Suite 🔁</li>
+    <li>Metasploit ☠️</li>
+    <li>Wireshark 🦈</li>
+    <li>Nmap 👁️</li>
+    <li>OSINT Frameworks 🕵️</li>
+    <li>Nessus 🔵</li>
+    <li>wapiti 🦌</li>
   </ul>
 </div>
 
