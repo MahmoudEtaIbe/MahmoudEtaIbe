@@ -25,5 +25,5 @@ I'm Mahmoud Etalbe, a cybersecurity student with a passion for ethical hacking a
 ## 🤝 Let's Connect
 
 - 📫 Open to collaborations, discussions, and questions.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-etalbe/)
 - 📣 Stay tuned for my latest security findings and projects.
