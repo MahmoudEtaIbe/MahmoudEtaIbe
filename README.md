@@ -9,6 +9,9 @@ I'm Mahmoud Etalbe, a cybersecurity student with a passion for ethical hacking a
 - 💼 Committed to promoting secure coding practices.
 
 ## 🛠️ Favorite Tools
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" alt="Animation" width="200" height="200" />
+</div>
 
 - Burp Suite
 - Metasploit
