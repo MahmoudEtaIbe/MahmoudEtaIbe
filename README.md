@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**MahmoudEtaIbe/MahmoudEtaIbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahmoud Etalbe, a cybersecurity student with a passion for ethical hacking and secure coding. 🛡️
 
-Here are some ideas to get you started:
+## 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Currently immersed in the world of cybersecurity education.
+- 🚀 Exploring ethical hacking techniques and network security.
+- 💼 Committed to promoting secure coding practices.
+
+## 🛠️ Favorite Tools
+
+- Burp Suite
+- Metasploit
+- Wireshark
+- Nmap
+- OSINT Frameworks
+
+## 📚 What You'll Find Here
+
+- 📖 Informative repositories on cybersecurity and ethical hacking.
+- 💡 Code snippets and insights on security practices.
+- 🎯 Contributions to open-source security projects.
+
+## 🤝 Let's Connect
+
+- 📫 Open to collaborations, discussions, and questions.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📣 Stay tuned for my latest security findings and projects.
