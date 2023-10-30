@@ -10,14 +10,20 @@ I'm Mahmoud Etalbe, a cybersecurity student with a passion for ethical hacking a
 
 ## 🛠️ Favorite Tools
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" alt="Animation" width="200" height="200" />
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="Animation" width="200" height="200" />
+</div>
+<div align="center">
+  <ul>
+    <li>Burp Suite</li>
+    <li>Metasploit</li>
+    <li>Wireshark</li>
+    <li>Nmap</li>
+    <li>OSINT Frameworks</li>
+    <li>Nessus</li>
+    <li>wapiti</li>
+  </ul>
 </div>
 
-- Burp Suite
-- Metasploit
-- Wireshark
-- Nmap
-- OSINT Frameworks
 
 ## 📚 What You'll Find Here
 
