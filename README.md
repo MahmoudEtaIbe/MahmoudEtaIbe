@@ -23,13 +23,13 @@
   </div>
   <div>
     <ul style="list-style-type: none; padding: 0;">
-      <li>Burp Suite 🔁</li>
-      <li>Metasploit ☠️</li>
-      <li>Wireshark 🦈</li>
-      <li>Nmap 👁️</li>
-      <li>OSINT Frameworks 🕵️</li>
-      <li>Nessus 🔵</li>
-      <li>wapiti 🦌</li>
+      <p>Burp Suite 🔁</p>
+      <p>Metasploit ☠️</p>
+      <p>Wireshark 🦈</p>
+      <p>Nmap 👁️</p>
+      <p>OSINT Frameworks 🕵️</p>
+      <p>Nessus 🔵</p>
+      <p>wapiti 🦌</p>
     </ul>
   </div>
 
